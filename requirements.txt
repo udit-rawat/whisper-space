@@ -1,0 +1,5 @@
+gradio==3.9
+openai-whisper
+spacy==3.4.0
+pydub==0.25.1
+torch==1.12.1
