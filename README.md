@@ -84,4 +84,4 @@ Feel free to explore and enhance the capabilities of this application according 
 
 ---
 
-This description provides a comprehensive overview of your project, detailing its features, usage, and setup instructions. You can include an example screenshot (`example_screenshot.png`) to visually represent the application's interface.
+
